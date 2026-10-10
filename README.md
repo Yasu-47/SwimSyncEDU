@@ -122,7 +122,7 @@ SwimSyncEDU/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Rinji47/SwimSyncEDU.git
+git clone https://github.com/Yasu-47/SwimSyncEDU.git
 cd SwimSyncEDU
 ```
 
